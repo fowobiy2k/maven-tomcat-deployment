@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.fowobi</groupId>
+  <artifactId>maven-tomcat-deployment</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240122141927</lastUpdated>
+  </versioning>
+</metadata>

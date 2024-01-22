@@ -39,7 +39,7 @@
 		<repository>
 			<id>my-repo</id>
 			<name>My Repository</name>
-			<url>file:///home/oluwatosin/code/java/maven/intellij-projects/maven-tomcat-deployment/.git</url>
+			<url>https://github.com/fowobiy2k/maven-tomcat-deployment.git</url>
 		</repository>
 	</distributionManagement>
 
@@ -50,7 +50,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>maven-tomcat-deployment</finalName>
+<!--		<finalName>maven-tomcat-deployment</finalName>-->
 	</build>
 
 </project>
